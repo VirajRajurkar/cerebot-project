@@ -1,3 +1,5 @@
+Welcome home!
+
 Over the course of 6–7 weeks, you'll learn how to design, implement, and deploy a real-world chatbot using Python and modern web technologies. This site documents your learning journey and will evolve alongside your project.
 
 > 🚧 This page is a living document. More resources and notes will be added as the project progresses!
