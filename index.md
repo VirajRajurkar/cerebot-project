@@ -83,7 +83,7 @@ The weekly plans' hyperlinks are cu
 
 ## 👥 Author & Audience
 
-This site is maintained by **Viraj Rajurkar**, Junior MLOps Engineer @ Cerebriu.
+This site is created and maintained by **Viraj Rajurkar**, Junior MLOps Engineer @ Cerebriu.
 
 Created for **Abhinav Pai**, Summer Intern @ Cerebriu, Summer 2025.
 
