@@ -1,24 +1,90 @@
-# Chatbot Summer Course 2025
+# The Cerebot Project: Summer Internship 2025
 
-Welcome to the Cerebriu summer internship chatbot course! 
-Over 6–7 weeks, you’ll learn how to build, test, and deploy a real-world chatbot.
+Welcome to the Cerebriu summer internship chatbot program!
 
-This page will be updated with more resources as we progress. Stay tuned!
+Over the course of 6–7 weeks, you'll learn how to design, implement, and deploy a real-world chatbot using Python and modern web technologies. This site documents your learning journey and will evolve alongside your project.
+
+> 🚧 This page is a living document. More resources and notes will be added as the project progresses!
+
+---
+
+## 🎯 Objectives
+
+- Build a simple but functional rule-based chatbot in Python
+- Learn how to structure and modularize Python code
+- Create a web interface for the chatbot using Flask
+- Practice agile, iterative software development
+- Gain experience with deployment tools like Replit, Render, or Heroku
+- Deploy a working chatbot demo online
+- Document and present the completed project professionally
+
+---
+
+## 🛠 Tools
+
+- Python 3.x
+- Git + GitHub
+- Visual Studio Code (or equivalent)
+- Flask
+- Replit / Render / Heroku *(pick one for deployment)*
+- JSON / APIs (optional extension)
+
+---
 
 ## 📅 Weekly Plan
-- [Week 1: Intro & Git](./week01_intro/)
-- [Week 2: Data Preprocessing](./week02_data/)
-- [Week 3: NLP](./week03_nlp/)
-...
+
+This plan is tentative and may adapt based on learning pace or new ideas.
+
+> 🧪 Each week ends with a demoable outcome or checkpoint.
+
+- [**Week 1** – Intro to Python & Git + Environment Setup](./week01/)
+    - **Goals**: Set up Python, Git, VS Code, and project repo
+    - **Outcomes**: Terminal chatbot skeleton with input/output loop
+
+- [**Week 2** – Core Chatbot Logic](./week02/)
+    - **Goals**: Implement hardcoded intents and response logic
+    - **Outcomes**: Terminal chatbot can handle ~10 basic queries via dictionary or string matching
+
+- [**Week 3** – External Data & Code Modularization](./week03/)
+    - **Goals**: Move chatbot responses to an external file (e.g., `responses.json`)
+    - **Outcomes**: Chatbot can load knowledge dynamically + optional API response integration
+
+- [**Week 4** – Web App Development (Flask)](./week04/)
+    - **Goals**: Convert chatbot into a web app with Flask
+    - **Outcomes**: Web chatbot with textbox + submit button, hosted locally
+
+- [**Week 5** – Polish & Deploy](./week05/)
+    - **Goals**: Finalize chatbot UI and deploy to a public platform
+    - **Outcomes**: Live chatbot URL via Render/Replit/Heroku + basic styling
+
+- [**Week 6** – Documentation & Final Demo](./week06/)
+    - **Goals**: Clean up repo, document all code, and prepare for presentation
+    - **Outcomes**: Well-documented GitHub repo + project demo + team presentation
+
+---
 
 ## 📚 Resources
-- [Glossary](./extras/glossary.md)
-- [Reference Docs](./extras/resources.md)
 
+- [Glossary](./extras/glossary.md) – Definitions of terms used in the project
+- [Reference Docs](./extras/resources.md) – Links to Python, Flask, Git, etc.
 
-@misc{cerebot-project,
-    author       = {Viraj Rajurkar},
-    title        = {Cerebot Project},
-    howpublished = {\url{https://github.com/VirajRajurkar/cerebot-project}},
-    year         = {2025}
-}
+---
+
+## 📐 Approach to Learning
+
+- Agile & Iterative Development
+- Self-Management & Ownership
+- Growth Mindset
+- Scandinavian Work Culture ("The Danish Way")
+- Innovation-Driven Engineering
+- Effective Communication of Technical Work
+
+---
+
+## 👥 Author & Audience
+
+This site is maintained by **Viraj Rajurkar**, Junior MLOps Engineer @ Cerebriu.
+Created for **Abhinav Pai**, Summer Intern @ Cerebriu, Summer 2025.
+
+> If you’re reading this as a future intern, welcome! This site is both a learning scaffold and a celebration of your work :)
+
