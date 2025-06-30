@@ -21,12 +21,11 @@ Today is about getting to know each other, learning the roadmap, and setting up 
 
 | Time        | What We’re Doing                                                                                           |
 | ----------- | ---------------------------------------------------------------------------------------------------------- |
-| 10 min      | Icebreaker: “What’s the nerdiest thing you’ve ever built or used?”                                         |
+| 10 min      | Welcome!                                                                                                   |
 | 15 min      | Explore the [Cerebot Internship site](https://virajrajurkar.github.io/cerebot-project/) and project vision |
-| 15 min      | “Your Brain is the Bot Brain” — chatbot metaphor talk                                                      |
 | 45 min      | Tool setup (Python, VS Code, GitHub, Git)                                                                  |
 | 15 min      | Create a GitHub repo called `cerebot` together                                                             |
-| 🏠 Homework | Think of 5 questions you’d love to ask a chatbot                                                           |
+| 🏠 Homework | Think of 5 questions you’d love to ask a chatbot.                                                           |
 
 ---
 
@@ -94,7 +93,7 @@ If you don’t want to use the command line yet, GitHub Desktop is super friendl
 * **Download GitHub Desktop:** [https://desktop.github.com/](https://desktop.github.com/)
 * **YouTube Tutorial:** [Getting Started with GitHub Desktop](https://www.youtube.com/watch?v=YDbjNaFONv4)
 
-### 🚀 Step 6: Create Your First GitHub Repository
+### 🚀 Step 6: Create Your First GitHub Repository 🚀
 
 We’ll do this together, but here’s a preview:
 
