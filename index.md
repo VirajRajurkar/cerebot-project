@@ -37,7 +37,7 @@ The weekly plans' hyperlinks are cu
 
 > 🧪 Each week has goals and ends with a "demoable" outcome or checkpoint.
 
-- [**Week 1** – Intro to Python & Git + Environment Setup] 
+- [**Week 1** – Intro to Python & Git + Environment Setup](./week01/)
     - **Goals**: Set up Python, Git, VS Code, and project repo
     - **Outcomes**: Terminal chatbot skeleton with input/output loop
 
