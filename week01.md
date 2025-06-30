@@ -24,7 +24,7 @@ Today is about getting to know each other, learning the roadmap, and setting up 
 | 10 min      | Welcome!                                                                                                   |
 | 15 min      | Explore the [Cerebot Internship site](https://virajrajurkar.github.io/cerebot-project/) and project vision |
 | 45 min      | Tool setup (Python, VS Code, GitHub, Git)                                                                  |
-| 15 min      | Create a GitHub repo called `cerebot` together                                                             |
+| 15 min      | Create a GitHub repo called `cerebot`                                                             |
 | 🏠 Homework | Think of 5 questions you’d love to ask a chatbot.                                                           |
 
 ---
@@ -45,7 +45,7 @@ The fantastic thing about software development is that it is somewhat collaborat
 We'll write all our code in Python. You can install the latest version here:
 
 * **Download Python:** [https://www.python.org/downloads/](https://www.python.org/downloads/)
-* **YouTube Tutorial (Windows):** [How to Install Python 3 on Windows 10](https://youtu.be/e70ykVBazAg?si=ZkbcjKkPAK_Ld4rL)
+* **YouTube Tutorial (Windows):** [How to Install Python 3 on Windows](https://youtu.be/e70ykVBazAg?si=ZkbcjKkPAK_Ld4rL)
 * **YouTube Tutorial (Mac):** [How to Install Python 3 on macOS](https://youtu.be/utVZYVJSTZA?si=2NM_ZX3-ccZGWD6K)
 
 🔍 Check if it worked:
