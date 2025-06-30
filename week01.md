@@ -1,4 +1,4 @@
-# Welcome to Week 1!
+# Welcome to Week 1 !
 
 ## Day 1: Tuesday the 1st of July 2025.
 
