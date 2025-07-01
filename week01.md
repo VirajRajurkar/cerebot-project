@@ -31,5 +31,6 @@ You’ll also:
 
 If you’re ever confused, stuck, or just curious, **ask questions**. That’s what great engineers do!.
 
-Good luck,
-Viraj
+Good luck!
+
+- Viraj
