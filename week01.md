@@ -25,7 +25,7 @@ You’ll also:
 | [**Day 1 – Set Up Your Tools and Project**](./Day1.md)     | Install everything, learn about the Cerebot project, create your GitHub repo |
 | [**Day 2 – Make the Bot Talk**](./Day2.md)                 | Learn `print()`, `input()`, and variables; create your first basic chatbot   |
 | [**Day 3 – Teach It to Decide**](./Day3.md)                | Use `if`, `else`, and `elif` to give your bot reactions and personality      |
-| [**Day 4 – Make It Modular**]                              | Break your code into functions and reuse logic like a pro                    |
+| [**Day 4 – Make It Modular**](./Day4.md)                   | Break your code into functions and reuse logic like a pro                    |
 
 If you’re ever confused, stuck, or just curious, **ask questions**. That’s what great engineers do!.
 
