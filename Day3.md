@@ -1,4 +1,4 @@
-## Day 3: Tuesday the 3rd of July 2025.
+## Day 3: Thursday the 3rd of July 2025.
 
 Welcome back! 🎉
 
