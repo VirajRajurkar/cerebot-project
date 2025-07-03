@@ -1,4 +1,4 @@
-## Day 2: Tuesday the 2nd of July 2025.
+## Day 2: Wednesday the 2nd of July 2025.
 Welcome back! 🎉
 
 Yesterday you got set up with Python, VS Code, GitHub, and Git. You even created your first project repo. 
