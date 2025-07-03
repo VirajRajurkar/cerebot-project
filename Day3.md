@@ -26,13 +26,13 @@ The idea is for the Cerebot to say something predefined based on a condition.
 
 ### Agenda
 
-| What to do                                                      |
-| --------------------------------------------------------------- |
-| Quick recap of variables and input handling                     |
-| Learn and explore conditionals in Python                        |
-| Build a chatbot that responds differently based on answers      |
-| Add some funny or custom reactions (a “secret password” maybe?) |
-| Save your file, push to GitHub                                  |
+| Time  | What to do                                                      |
+|------ | --------------------------------------------------------------- |
+|15 min | Quick recap of variables and input handling                     |
+|30 min | Learn and explore conditionals in Python                        |
+|30 min | Build a chatbot that responds differently based on answers      |
+|30 min | Add some funny or custom reactions (a “secret password” maybe?) |
+|30 min | Save your file, push to GitHub                                  |
 
 ---
 
@@ -75,7 +75,7 @@ Even this tiny snippet - your bot already has an "attitude".
 | `==`        | Comparison operator — checks if two things are equal                | `if color == "blue":`     |
 | Indentation | Tabs/spaces used to show what belongs inside the `if`, `else`, etc. | (Use 4 spaces or Tab key) |
 
-Remember: in Python, **indentation is not optional**. It’s how the language knows which code belongs to which block. If something is not indented properly, Python will complain! I highly recommend looking at Python tutorials for further help with this, for example [this one that you are likely familiar with]().
+Remember: in Python, **indentation is not optional**. It’s how the language knows which code belongs to which block. If something is not indented properly, Python will complain! I highly recommend looking at Python tutorials for further help with this, for example [this one that you are likely familiar with](https://youtu.be/_uQrJ0TkZlc?si=2hTmdu8-rD7Be9dc).
 
 
 ### ✅ What Are We Building Today? ✅
@@ -141,7 +141,7 @@ And just like that, you’ve backed up your work and can show it to the world. I
 1. Try adding one more question to your bot (e.g. "What's your mood today?") and use `if/else` to respond.
 2. Try writing a version where a certain input gives a *special* reply ("You found the easter egg! 🥚")
 3. Go crazy with the if-else statements! The sky's the limit. Invent complex scenarios and try solidifying the logic into if-else statements!
-4. Watch this great beginner-friendly video on conditionals: [Python If Else Statements – Real Python]().
+4. Watch this great beginner-friendly video on conditionals: [Python If Else Statements – Real Python](https://youtu.be/FvMPfrgGeKs?si=Y74m1PtQoySMAXjM).
 
 ---
 
