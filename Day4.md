@@ -36,7 +36,6 @@ Welcome back! 🎉
 
 ### ✅ What Are We Building Today? ✅
 
-Today, I would love if we could build (at the very least) a chatbot that:
 
 
 ---
