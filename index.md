@@ -41,7 +41,7 @@ The weekly plans' hyperlinks are cu
     - **Goals**: Set up Python, Git, VS Code, and project repo
     - **Outcomes**: Terminal chatbot skeleton with input/output loop
 
-- [**Week 2** – Core Chatbot Logic]
+- [**Week 2** – Core Chatbot Logic](./week02.md/)
     - **Goals**: Implement hardcoded intents and response logic
     - **Outcomes**: Terminal chatbot can handle ~10 basic queries via dictionary or string matching
 
