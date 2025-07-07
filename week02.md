@@ -19,7 +19,7 @@ By the end of the week, your will:
 | Day                                                        | What You’ll Do                                                               |
 | ---------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | [**Day 5 – Gameplan**](./Day5.md)                          | Complete a first draft of brainstorm on google docs + Loop through lists, and dictionaries |
-| [**Day 6 – Sentiment Recognition**](./Day6.md)             | Recognise user sentiment based on preset keywords |
+| [**Day 6 – Sentiment Recognition**]             | Recognise user sentiment based on preset keywords |
 | [**Day 7 – Memory Management**]                 | TBA     |
 | [**Day 8 – Practice Python**]                 | TBA     |
 | [**Day 9 – Practice Python**]                 | TBA     |
