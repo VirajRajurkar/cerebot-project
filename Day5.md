@@ -77,7 +77,7 @@ Remember to answer in simple English. Try to answer from the POV of the user. So
 - Recognise symptoms of stroke (specifically ... blah blah)
 - Recognise symptoms of depression (specifically ... blah blah)
 
-It can be serious, weird, fun, or personal. Want to help patients? Offer advice? Pretend to be a wizard? Get creative! It would nice if you could remind me to check out your brainstorm doc on WhatsApp by the end of today!
+It can be serious, weird, fun, or personal. Want to help patients? Offer advice? Pretend to be a wizard? Get creative! It would be nice if you could remind me to check out your brainstorm doc on WhatsApp by the end of today!
 
 #### 2. **Write a Simple “Conversational Loop” Bot**
 
