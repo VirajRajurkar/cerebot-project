@@ -41,6 +41,7 @@ while True:
 ```
 
 I would love for you to explore nested loops, and for loops too!
+
 #### Lists:
 
 Hold multiple things, like a list of symptoms or answers.
@@ -66,7 +67,7 @@ symptom_meaning = {
 
 #### 1. **Brainstorm Cerebot Goals**
 
-Open a shared Google Doc and write bullet points answering:
+Open a shared Google Doc in [our shared folder](https://drive.google.com/drive/folders/1wxsy7kRp4OLEWfoEJRS3JF3PmM7GFz0e?usp=sharing) and write bullet points answering:
 
 > “What should Cerebot do by the end of this week?”
 
@@ -76,7 +77,7 @@ Remember to answer in simple English. Try to answer from the POV of the user. So
 - Recognise symptoms of stroke (specifically ... blah blah)
 - Recognise symptoms of depression (specifically ... blah blah)
 
-It can be serious, weird, fun, or personal. Want to help patients? Offer advice? Pretend to be a wizard? Get creative!
+It can be serious, weird, fun, or personal. Want to help patients? Offer advice? Pretend to be a wizard? Get creative! It would nice if you could remind me to check out your brainstorm doc on WhatsApp by the end of today!
 
 #### 2. **Write a Simple “Conversational Loop” Bot**
 
