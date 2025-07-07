@@ -6,7 +6,7 @@ Therefore (if we align on this), the Cerebot should be able to at least make a p
 
 As always, I seriously encourage you to shake things up, get creative, and take creative agency if you would rather move in another direction, while keeping me in the loop, of course! 🤩
 
-By the end of the week, your bot will:
+By the end of the week, your will:
 
 * Have a simple conversation with the user and make semi-intelligent conversation
 * Store and retrieve information from memory
