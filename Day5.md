@@ -1,4 +1,4 @@
-## Day 5 – Monday, July 8th, 2025
+## Day 5: Monday, July 8th, 2025
 
 Welcome to **Gameplan + Practice Day**!
 
